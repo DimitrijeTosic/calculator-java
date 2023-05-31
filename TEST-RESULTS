@@ -1,0 +1,38 @@
+Greške u kodu
+
+Calculator.java - 32 - napisati if u jednoj liniji koda 
+Calculator.java - 42 - napisati if u jednoj liniji koda 
+Calculator.java - 15 - neiskorišćena metoda 
+Calculator.java - 183 - return nije potreban 
+Calculator.java - 70 - nepotrebna linija koda
+
+Propust/Nedostaci 
+
+1. Prilikom pritiska Enter tastera dok nije unesen nikakav aritmetički izraz ili funkcija, kod se gasi i prestaje sa radom. 
+2. Calcucator ne moze da izračuna komplikovanije izraze kao sto je sabiranje ili oduzimanje prilikom upotrebe zagrada.
+3. Calculator ne moze da stepenuje brojeve.
+4. Calculator ne moze da izračuna procenat.
+5. Calculator ne moze da izračuna faktorijal.
+
+Zapažanja
+
+Opis: Program Calculator je jednostavan računarski program koji zadovoljava osnovne kriterijume za rad. 
+Pruža osnovne matematičke funkcionalnosti i omogućava korisnicima da obavljaju osnovne proračune.
+
+Pozitivni aspekti: 
+Jednostavnost upotrebe: Program Calculator je intuitivan i lako se koristi. 
+Korisnici mogu brzo i jednostavno izvršiti željene matematičke operacije.
+Unapređenje i održavanje: Program je dizajniran na način koji olakšava unapređenje i održavanje. 
+To znači da je moguće dodati nove funkcionalnosti ili ispraviti greške bez velikih poteškoća.
+Pouzdanost i sigurnost: Program nesmetano funkcioniše i obavlja sve navedene funkcije. 
+Korisnici mogu imati poverenja u njegovu tačnost i pouzdanost.
+
+Preporuke za poboljšanje:
+Dodavanje podrške za složenije matematičke izraze: Trenutna verzija programa podržava samo osnovne matematičke operacije. 
+Dodavanje mogućnosti za unos i računanje složenijih izraza pomoću zagrada bi unapredilo funkcionalnost programa i omogućilo korisnicima da obavljaju naprednije proračune.
+Ispravljanje grešaka: Iako program funkcioniše nesmetano, postoje određene greške u njemu. 
+
+Zaključak: Program Calculator zadovoljava osnovne kriterijume za rad i pruža korisnicima osnovne matematičke funkcionalnosti. 
+Iako postoje određene greške koje se mogu ispraviti, one ne ometaju njegovo nesmetano funkcionisanje. 
+Preporučuje se dodavanje podrške za složenije matematičke izraze pomoću zagrada kako bi se unapredila funkcionalnost programa. 
+Program je jednostavan za upotrebu, lako ga je unaprediti i održavati, te se može koristiti bez problema.
